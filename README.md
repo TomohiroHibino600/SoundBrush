@@ -1,3 +1,10 @@
+# [WIP].
+This is a project I created to learn from tilt brush since it has become OSS.
+I am planning to implement Audio Visualization using webRadio and Multiplayer using MLAPI in this project, but it is not finished yet.
+
+tilt brushがOSS化したので、そこから学習するために作ったプロジェクトです。
+webRadioを用いたAudio Visualizationと、MLAPIを用いたマルチプレイを実装する予定ですが、まだ完成していません。
+
 # Tilt Brush README
 
 Tilt Brush is licensed under Apache 2.0. It is not an officially supported
